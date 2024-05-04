@@ -1,3 +1,5 @@
+Summary this project was done for my CSE218 class to recreate a social media platform in Java and demonstrate some data structures
+
 My reasons for using the structures and their O(n)
 
 posts:
